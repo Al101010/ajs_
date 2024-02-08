@@ -1,0 +1,19 @@
+{
+  "name": "@al101010/ajs_",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Al101010/ajs_.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Al101010/ajs_/issues"
+  },
+  "homepage": "https://github.com/Al101010/ajs_#readme"
+}
